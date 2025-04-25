@@ -4,7 +4,7 @@ the fp_tree algorithm for warehousing which helps in finding the strong associat
 # Build by 
 ## group 1
 ------------
-Manan Maheshwari 
-Pranay Mantri 
-Vaibhav Singhavi
-Vidyasagar Dadilwar
+### Manan Maheshwari 
+### Pranay Mantri 
+### Vaibhav Singhavi
+### Vidyasagar Dadilwar
